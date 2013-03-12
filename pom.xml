@@ -9,13 +9,13 @@
 
   <groupId>com.soebes.maven.test</groupId>
   <artifactId>test</artifactId>
-  <version>0.5</version>
+  <version>0.6-SNAPSHOT</version>
 
   <scm>
     <developerConnection>scm:git:git@github.com:khmarbaise/mvntest.git</developerConnection>
     <connection>scm:git:git://github.com/khmarbaise/mvntest.git</connection>
     <url>https://github.com/khmarbaise/mvntest</url>
-    <tag>test-0.5</tag>
+    <tag>HEAD</tag>
   </scm>
 
 <repositories>
